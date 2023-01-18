@@ -1,0 +1,32 @@
+[
+  {
+    "model": "triptraceapi.item",
+    "pk": 1,
+    "fields": {
+      "trip": 1,
+      "title": "Rain Jacket",
+      "description": "It will be rainy and chilly, pack a rain jacket!",
+      "quantity": 1
+    }
+  },
+  {
+    "model": "triptraceapi.item",
+    "pk": 2,
+    "fields": {
+      "trip": 2,
+      "title": "Swim Suit",
+      "description": "For the beach fun!",
+      "quantity": 3
+    }
+  },
+  {
+    "model": "triptraceapi.item",
+    "pk": 3,
+    "fields": {
+      "trip": 3,
+      "title": "Sunscreen",
+      "description": "It's the desert, after all",
+      "quantity": 1
+  }
+  }
+]
