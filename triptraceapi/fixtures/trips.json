@@ -1,0 +1,56 @@
+[
+  {
+    "model": "triptraceapi.trip",
+    "pk": 1,
+    "fields": {
+      "title": "A Scottish Road Trip",
+      "description": "Take a road trip around the beatutiful Scottish Highlands.",
+      "image_url": "https://images.freeimages.com/images/large-previews/b29/ben-nevis-via-cmd-arete-1303644.jpg",
+      "created_on": "2022-12-30T14:00:00.000",
+      "duration": "6",
+      "duration_unit": "Days",
+      "traveler": 1,
+      "region": "Europe",
+      "country": "Scotland",
+      "city": "",
+      "public": "True",
+      "price_range": "$$$"
+    }
+  },
+  {
+    "model": "triptraceapi.trip",
+    "pk": 2,
+    "fields": {
+      "title": "3 Nights in Cabo",
+      "description": "Beach and adventure await.",
+      "image_url": "https://images.freeimages.com/images/large-previews/e81/pontal-do-atalaia-1631331.jpg",
+      "created_on": "2023-01-03T14:00:00.000",
+      "duration": "3",
+      "duration_unit": "Nights",
+      "traveler": 1,
+      "region": "North America",
+      "country": "Mexico",
+      "city": "Cabo",
+      "public": "True",
+      "price_range": "$$$$"
+    }
+  },
+  {
+    "model": "triptraceapi.trip",
+    "pk": 3,
+    "fields": {
+      "title": "Desert Adventure",
+      "description": "Enjoy this trip through the Utah desert.",
+      "image_url": "https://images.freeimages.com/images/large-previews/f90/lone-rider-in-monument-valley-1623269.jpg",
+      "created_on": "2022-11-15T14:00:00.000",
+      "duration": "1",
+      "duration_unit": "Week",
+      "traveler": 2,
+      "region": "North America",
+      "country": "United States",
+      "city": "",
+      "public": "True",
+      "price_range": "$$"
+  }
+  }
+]

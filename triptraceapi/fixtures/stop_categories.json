@@ -1,0 +1,26 @@
+[
+  {
+    "model": "triptraceapi.stopcategory",
+    "pk": 1,
+    "fields": {
+      "stop": 1,
+      "category": 1
+    }
+  },
+  {
+    "model": "triptraceapi.stopcategory",
+    "pk": 2,
+    "fields": {
+      "stop": 2,
+      "category": 2
+    }
+  },
+  {
+    "model": "triptraceapi.stopcategory",
+    "pk": 3,
+    "fields": {
+      "stop": 1,
+      "category": 3
+  }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "model": "triptraceapi.category",
+    "pk": 1,
+    "fields": {
+      "title": "Outdoors"
+    }
+  },
+  {
+    "model": "triptraceapi.category",
+    "pk": 2,
+    "fields": {
+      "title": "Nightlife"
+    }
+  },
+  {
+    "model": "triptraceapi.category",
+    "pk": 3,
+    "fields": {
+      "title": "Beach"
+  }
+  },
+  {
+    "model": "triptraceapi.category",
+    "pk": 4,
+    "fields": {
+      "title": "Desert"
+  }
+  }
+]

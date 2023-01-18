@@ -1,0 +1,41 @@
+[
+  {
+    "model": "triptraceapi.stop",
+    "pk": 1,
+    "fields": {
+      "trip": 1,
+      "title": "Loch Ness",
+      "country": "Scotland",
+      "city": "",
+      "duration": "5",
+      "duration_unit": "Hours",
+      "price_range": "$"
+    }
+  },
+  {
+    "model": "triptraceapi.stop",
+    "pk": 2,
+    "fields": {
+      "trip": 2,
+      "title": "Beach",
+      "country": "Mexico",
+      "city": "Cabo",
+      "duration": "1",
+      "duration_unit": "Day",
+      "price_range": "$$"
+    }
+  },
+  {
+    "model": "triptraceapi.stop",
+    "pk": 3,
+    "fields": {
+      "trip": 1,
+      "title": "Isle of Skye",
+      "country": "Scotland",
+      "city": "",
+      "duration": "2",
+      "duration_unit": "Days",
+      "price_range": "$"
+  }
+  }
+]
