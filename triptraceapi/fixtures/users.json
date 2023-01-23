@@ -34,5 +34,17 @@
       "image_url": "https://media.istockphoto.com/photos/active-ethnic-senior-woman-enjoying-the-outdoors-with-her-pet-dog-picture-id1325997469?b=1&k=20&m=1325997469&s=612x612&w=0&h=i6USnXyrOFyDWSp-QgbfJRveqYBtHDnTxh745qQ7gw8=",
       "email": "shugreta@gmail.com"
   }
+  },
+  {
+    "model": "triptraceapi.user",
+    "pk": 4,
+    "fields": {
+      "uid": "522Vy4VXveTPhzTPOaeyBeU7m9h2",
+      "first_name": "Lesley",
+      "last_name": "Keyes",
+      "about": "Loves to travel",
+      "image_url": "https://media.istockphoto.com/photos/m-the-best-asset-in-my-business-picture-id1311655328?b=1&k=20&m=1311655328&s=612x612&w=0&h=wnF6mTirYcC8Hg7rV7Jl8mfJSmWh8_OJwUU2MPBLuKc=",
+      "email": "les@gmail.com"
+    }
   }
 ]

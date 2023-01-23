@@ -16,6 +16,15 @@ class TripView(ViewSet):
 
     def list(self, request):
         trips = Trip.objects.all()
+        
+        public = self.request.query_params.get("public", None)
+        if public is not None:
+            trips = trips.filter(public=public)
+            
+        traveler_id = self.request.query_params.get("traveler_id", None)
+        if traveler_id is not None:
+            trips = trips.filter(traveler_id=traveler_id)
+
         serializer = TripSerializer(trips, many=True)
         return Response(serializer.data)
       
@@ -62,7 +71,7 @@ class TripView(ViewSet):
 
 class TripSerializer(serializers.ModelSerializer):
     """serializer for trips"""
-    created_on = serializers.DateTimeField(format="%m-%d-%Y")
+    created_on = serializers.DateTimeField()
     class Meta:
         model = Trip
         depth = 1
