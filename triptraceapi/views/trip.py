@@ -53,13 +53,14 @@ class TripView(ViewSet):
     
     def update(self, request, pk):
         trip = Trip.objects.get(pk=pk)
+        country = Country.objects.get(id=request.data["country_id"])
         trip.title = request.data["title"]
         trip.description = request.data["description"]
         trip.image_url = request.data["image_url"]
         trip.duration = request.data["duration"]
         trip.duration_unit = request.data["duration_unit"]
         trip.region = request.data["region"]
-        trip.country = request.data["country"]
+        trip.country = country
         trip.city = request.data["city"]
         trip.public = request.data["public"]
         trip.price_range = request.data["price_range"]
