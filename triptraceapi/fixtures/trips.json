@@ -11,7 +11,7 @@
       "duration_unit": "Days",
       "traveler": 4,
       "region": "Europe",
-      "country": "Scotland",
+      "country": 826,
       "city": "",
       "public": true,
       "price_range": "$$$"
@@ -29,7 +29,7 @@
       "duration_unit": "Nights",
       "traveler": 1,
       "region": "North America",
-      "country": "Mexico",
+      "country": 484,
       "city": "Cabo",
       "public": true,
       "price_range": "$$$$"
@@ -47,7 +47,7 @@
       "duration_unit": "Week",
       "traveler": 2,
       "region": "North America",
-      "country": "United States",
+      "country": 840,
       "city": "",
       "public": false,
       "price_range": "$$"

@@ -2,7 +2,7 @@ from django.http import HttpResponseServerError
 from rest_framework.viewsets import ViewSet
 from rest_framework.response import Response
 from rest_framework import serializers, status
-from triptraceapi.models import Trip, User
+from triptraceapi.models import Trip, User, Country
 
 class TripView(ViewSet):
     """Trip View"""
@@ -24,22 +24,26 @@ class TripView(ViewSet):
         traveler_id = self.request.query_params.get("traveler_id", None)
         if traveler_id is not None:
             trips = trips.filter(traveler_id=traveler_id)
+        
+        country_id = self.request.query_params.get("country_id", None)
+        if country_id is not None:
+            trips = trips.filter(country_id=country_id)
 
         serializer = TripSerializer(trips, many=True)
         return Response(serializer.data)
       
     def create(self, request):
         traveler = User.objects.get(id=request.data["traveler_id"])
+        country = Country.objects.get(id=request.data["country_id"])
         trip = Trip.objects.create(
             traveler=traveler,
+            country=country,
             title=request.data["title"],
             description=request.data["description"],
             image_url=request.data["image_url"],
-            created_on=request.data["created_on"],
             duration=request.data["duration"],
             duration_unit=request.data["duration_unit"],
             region=request.data["region"],
-            country=request.data["country"],
             city=request.data["city"],
             public=request.data["public"],
             price_range=request.data["price_range"]
@@ -75,4 +79,4 @@ class TripSerializer(serializers.ModelSerializer):
     class Meta:
         model = Trip
         depth = 1
-        fields = ('id', 'title', 'description', 'image_url', 'created_on', 'duration', 'duration_unit', 'traveler_id', 'region', 'country', 'city', 'public', 'price_range')
+        fields = ('id', 'title', 'description', 'image_url', 'created_on', 'duration', 'duration_unit', 'traveler_id', 'region', 'country_id', 'city', 'public', 'price_range')
