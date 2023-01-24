@@ -1,0 +1,1737 @@
+[{
+  "model": "triptraceapi.country",
+  "pk":4,
+  "fields": {
+    "alpha2":"af",
+    "alpha3":"afg",
+    "name":"Afghanistan"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":8,
+  "fields": {
+    "alpha2":"al",
+    "alpha3":"alb",
+    "name":"Albania"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":12,
+  "fields": {
+    "alpha2":"dz",
+    "alpha3":"dza",
+    "name":"Algeria"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":20,
+  "fields": {
+    "alpha2":"ad",
+    "alpha3":"and",
+    "name":"Andorra"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":24,
+  "fields": {
+    "alpha2":"ao",
+    "alpha3":"ago",
+    "name":"Angola"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":28,
+  "fields": {
+    "alpha2":"ag",
+    "alpha3":"atg",
+    "name":"Antigua and Barbuda"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":32,
+  "fields": {
+    "alpha2":"ar",
+    "alpha3":"arg",
+    "name":"Argentina"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":51,
+  "fields": {
+    "alpha2":"am",
+    "alpha3":"arm",
+    "name":"Armenia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":36,
+  "fields": {
+    "alpha2":"au",
+    "alpha3":"aus",
+    "name":"Australia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":40,
+  "fields": {
+    "alpha2":"at",
+    "alpha3":"aut",
+    "name":"Austria"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":31,
+  "fields": {
+    "alpha2":"az",
+    "alpha3":"aze",
+    "name":"Azerbaijan"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":44,
+  "fields": {
+    "alpha2":"bs",
+    "alpha3":"bhs",
+    "name":"Bahamas"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":48,
+  "fields": {
+    "alpha2":"bh",
+    "alpha3":"bhr",
+    "name":"Bahrain"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":50,
+  "fields": {
+    "alpha2":"bd",
+    "alpha3":"bgd",
+    "name":"Bangladesh"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":52,
+  "fields": {
+    "alpha2":"bb",
+    "alpha3":"brb",
+    "name":"Barbados"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":112,
+  "fields": {
+    "alpha2":"by",
+    "alpha3":"blr",
+    "name":"Belarus"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":56,
+  "fields": {
+    "alpha2":"be",
+    "alpha3":"bel",
+    "name":"Belgium"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":84,
+  "fields": {
+    "alpha2":"bz",
+    "alpha3":"blz",
+    "name":"Belize"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":204,
+  "fields": {
+    "alpha2":"bj",
+    "alpha3":"ben",
+    "name":"Benin"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":64,
+  "fields": {
+    "alpha2":"bt",
+    "alpha3":"btn",
+    "name":"Bhutan"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":68,
+  "fields": {
+    "alpha2":"bo",
+    "alpha3":"bol",
+    "name":"Bolivia (Plurinational State of)"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":70,
+  "fields": {
+    "alpha2":"ba",
+    "alpha3":"bih",
+    "name":"Bosnia and Herzegovina"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":72,
+  "fields": {
+    "alpha2":"bw",
+    "alpha3":"bwa",
+    "name":"Botswana"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":76,
+  "fields": {
+    "alpha2":"br",
+    "alpha3":"bra",
+    "name":"Brazil"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":96,
+  "fields": {
+    "alpha2":"bn",
+    "alpha3":"brn",
+    "name":"Brunei Darussalam"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":100,
+  "fields": {
+    "alpha2":"bg",
+    "alpha3":"bgr",
+    "name":"Bulgaria"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":854,
+  "fields": {
+    "alpha2":"bf",
+    "alpha3":"bfa",
+    "name":"Burkina Faso"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":108,
+  "fields": {
+    "alpha2":"bi",
+    "alpha3":"bdi",
+    "name":"Burundi"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":132,
+  "fields": {
+    "alpha2":"cv",
+    "alpha3":"cpv",
+    "name":"Cabo Verde"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":116,
+  "fields": {
+    "alpha2":"kh",
+    "alpha3":"khm",
+    "name":"Cambodia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":120,
+  "fields": {
+    "alpha2":"cm",
+    "alpha3":"cmr",
+    "name":"Cameroon"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":124,
+  "fields": {
+    "alpha2":"ca",
+    "alpha3":"can",
+    "name":"Canada"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":140,
+  "fields": {
+    "alpha2":"cf",
+    "alpha3":"caf",
+    "name":"Central African Republic"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":148,
+  "fields": {
+    "alpha2":"td",
+    "alpha3":"tcd",
+    "name":"Chad"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":152,
+  "fields": {
+    "alpha2":"cl",
+    "alpha3":"chl",
+    "name":"Chile"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":156,
+  "fields": {
+    "alpha2":"cn",
+    "alpha3":"chn",
+    "name":"China"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":170,
+  "fields": {
+    "alpha2":"co",
+    "alpha3":"col",
+    "name":"Colombia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":174,
+  "fields": {
+    "alpha2":"km",
+    "alpha3":"com",
+    "name":"Comoros"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":178,
+  "fields": {
+    "alpha2":"cg",
+    "alpha3":"cog",
+    "name":"Congo"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":180,
+  "fields": {
+    "alpha2":"cd",
+    "alpha3":"cod",
+    "name":"Congo, Democratic Republic of the"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":188,
+  "fields": {
+    "alpha2":"cr",
+    "alpha3":"cri",
+    "name":"Costa Rica"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":384,
+  "fields": {
+    "alpha2":"ci",
+    "alpha3":"civ",
+    "name":"Côte d'Ivoire"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":191,
+  "fields": {
+    "alpha2":"hr",
+    "alpha3":"hrv",
+    "name":"Croatia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":192,
+  "fields": {
+    "alpha2":"cu",
+    "alpha3":"cub",
+    "name":"Cuba"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":196,
+  "fields": {
+    "alpha2":"cy",
+    "alpha3":"cyp",
+    "name":"Cyprus"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":203,
+  "fields": {
+    "alpha2":"cz",
+    "alpha3":"cze",
+    "name":"Czechia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":208,
+  "fields": {
+    "alpha2":"dk",
+    "alpha3":"dnk",
+    "name":"Denmark"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":262,
+  "fields": {
+    "alpha2":"dj",
+    "alpha3":"dji",
+    "name":"Djibouti"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":212,
+  "fields": {
+    "alpha2":"dm",
+    "alpha3":"dma",
+    "name":"Dominica"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":214,
+  "fields": {
+    "alpha2":"do",
+    "alpha3":"dom",
+    "name":"Dominican Republic"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":218,
+  "fields": {
+    "alpha2":"ec",
+    "alpha3":"ecu",
+    "name":"Ecuador"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":818,
+  "fields": {
+    "alpha2":"eg",
+    "alpha3":"egy",
+    "name":"Egypt"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":222,
+  "fields": {
+    "alpha2":"sv",
+    "alpha3":"slv",
+    "name":"El Salvador"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":226,
+  "fields": {
+    "alpha2":"gq",
+    "alpha3":"gnq",
+    "name":"Equatorial Guinea"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":232,
+  "fields": {
+    "alpha2":"er",
+    "alpha3":"eri",
+    "name":"Eritrea"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":233,
+  "fields": {
+    "alpha2":"ee",
+    "alpha3":"est",
+    "name":"Estonia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":748,
+  "fields": {
+    "alpha2":"sz",
+    "alpha3":"swz",
+    "name":"Eswatini"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":231,
+  "fields": {
+    "alpha2":"et",
+    "alpha3":"eth",
+    "name":"Ethiopia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":242,
+  "fields": {
+    "alpha2":"fj",
+    "alpha3":"fji",
+    "name":"Fiji"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":246,
+  "fields": {
+    "alpha2":"fi",
+    "alpha3":"fin",
+    "name":"Finland"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":250,
+  "fields": {
+    "alpha2":"fr",
+    "alpha3":"fra",
+    "name":"France"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":266,
+  "fields": {
+    "alpha2":"ga",
+    "alpha3":"gab",
+    "name":"Gabon"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":270,
+  "fields": {
+    "alpha2":"gm",
+    "alpha3":"gmb",
+    "name":"Gambia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":268,
+  "fields": {
+    "alpha2":"ge",
+    "alpha3":"geo",
+    "name":"Georgia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":276,
+  "fields": {
+    "alpha2":"de",
+    "alpha3":"deu",
+    "name":"Germany"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":288,
+  "fields": {
+    "alpha2":"gh",
+    "alpha3":"gha",
+    "name":"Ghana"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":300,
+  "fields": {
+    "alpha2":"gr",
+    "alpha3":"grc",
+    "name":"Greece"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":308,
+  "fields": {
+    "alpha2":"gd",
+    "alpha3":"grd",
+    "name":"Grenada"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":320,
+  "fields": {
+    "alpha2":"gt",
+    "alpha3":"gtm",
+    "name":"Guatemala"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":324,
+  "fields": {
+    "alpha2":"gn",
+    "alpha3":"gin",
+    "name":"Guinea"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":624,
+  "fields": {
+    "alpha2":"gw",
+    "alpha3":"gnb",
+    "name":"Guinea-Bissau"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":328,
+  "fields": {
+    "alpha2":"gy",
+    "alpha3":"guy",
+    "name":"Guyana"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":332,
+  "fields": {
+    "alpha2":"ht",
+    "alpha3":"hti",
+    "name":"Haiti"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":340,
+  "fields": {
+    "alpha2":"hn",
+    "alpha3":"hnd",
+    "name":"Honduras"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":348,
+  "fields": {
+    "alpha2":"hu",
+    "alpha3":"hun",
+    "name":"Hungary"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":352,
+  "fields": {
+    "alpha2":"is",
+    "alpha3":"isl",
+    "name":"Iceland"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":356,
+  "fields": {
+    "alpha2":"in",
+    "alpha3":"ind",
+    "name":"India"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":360,
+  "fields": {
+    "alpha2":"id",
+    "alpha3":"idn",
+    "name":"Indonesia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":364,
+  "fields": {
+    "alpha2":"ir",
+    "alpha3":"irn",
+    "name":"Iran (Islamic Republic of)"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":368,
+  "fields": {
+    "alpha2":"iq",
+    "alpha3":"irq",
+    "name":"Iraq"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":372,
+  "fields": {
+    "alpha2":"ie",
+    "alpha3":"irl",
+    "name":"Ireland"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":376,
+  "fields": {
+    "alpha2":"il",
+    "alpha3":"isr",
+    "name":"Israel"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":380,
+  "fields": {
+    "alpha2":"it",
+    "alpha3":"ita",
+    "name":"Italy"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":388,
+  "fields": {
+    "alpha2":"jm",
+    "alpha3":"jam",
+    "name":"Jamaica"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":392,
+  "fields": {
+    "alpha2":"jp",
+    "alpha3":"jpn",
+    "name":"Japan"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":400,
+  "fields": {
+    "alpha2":"jo",
+    "alpha3":"jor",
+    "name":"Jordan"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":398,
+  "fields": {
+    "alpha2":"kz",
+    "alpha3":"kaz",
+    "name":"Kazakhstan"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":404,
+  "fields": {
+    "alpha2":"ke",
+    "alpha3":"ken",
+    "name":"Kenya"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":296,
+  "fields": {
+    "alpha2":"ki",
+    "alpha3":"kir",
+    "name":"Kiribati"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":408,
+  "fields": {
+    "alpha2":"kp",
+    "alpha3":"prk",
+    "name":"Korea (Democratic People's Republic of)"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":410,
+  "fields": {
+    "alpha2":"kr",
+    "alpha3":"kor",
+    "name":"Korea, Republic of"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":414,
+  "fields": {
+    "alpha2":"kw",
+    "alpha3":"kwt",
+    "name":"Kuwait"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":417,
+  "fields": {
+    "alpha2":"kg",
+    "alpha3":"kgz",
+    "name":"Kyrgyzstan"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":418,
+  "fields": {
+    "alpha2":"la",
+    "alpha3":"lao",
+    "name":"Lao People's Democratic Republic"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":428,
+  "fields": {
+    "alpha2":"lv",
+    "alpha3":"lva",
+    "name":"Latvia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":422,
+  "fields": {
+    "alpha2":"lb",
+    "alpha3":"lbn",
+    "name":"Lebanon"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":426,
+  "fields": {
+    "alpha2":"ls",
+    "alpha3":"lso",
+    "name":"Lesotho"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":430,
+  "fields": {
+    "alpha2":"lr",
+    "alpha3":"lbr",
+    "name":"Liberia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":434,
+  "fields": {
+    "alpha2":"ly",
+    "alpha3":"lby",
+    "name":"Libya"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":438,
+  "fields": {
+    "alpha2":"li",
+    "alpha3":"lie",
+    "name":"Liechtenstein"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":440,
+  "fields": {
+    "alpha2":"lt",
+    "alpha3":"ltu",
+    "name":"Lithuania"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":442,
+  "fields": {
+    "alpha2":"lu",
+    "alpha3":"lux",
+    "name":"Luxembourg"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":450,
+  "fields": {
+    "alpha2":"mg",
+    "alpha3":"mdg",
+    "name":"Madagascar"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":454,
+  "fields": {
+    "alpha2":"mw",
+    "alpha3":"mwi",
+    "name":"Malawi"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":458,
+  "fields": {
+    "alpha2":"my",
+    "alpha3":"mys",
+    "name":"Malaysia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":462,
+  "fields": {
+    "alpha2":"mv",
+    "alpha3":"mdv",
+    "name":"Maldives"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":466,
+  "fields": {
+    "alpha2":"ml",
+    "alpha3":"mli",
+    "name":"Mali"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":470,
+  "fields": {
+    "alpha2":"mt",
+    "alpha3":"mlt",
+    "name":"Malta"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":584,
+  "fields": {
+    "alpha2":"mh",
+    "alpha3":"mhl",
+    "name":"Marshall Islands"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":478,
+  "fields": {
+    "alpha2":"mr",
+    "alpha3":"mrt",
+    "name":"Mauritania"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":480,
+  "fields": {
+    "alpha2":"mu",
+    "alpha3":"mus",
+    "name":"Mauritius"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":484,
+  "fields": {
+    "alpha2":"mx",
+    "alpha3":"mex",
+    "name":"Mexico"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":583,
+  "fields": {
+    "alpha2":"fm",
+    "alpha3":"fsm",
+    "name":"Micronesia (Federated States of)"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":498,
+  "fields": {
+    "alpha2":"md",
+    "alpha3":"mda",
+    "name":"Moldova, Republic of"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":492,
+  "fields": {
+    "alpha2":"mc",
+    "alpha3":"mco",
+    "name":"Monaco"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":496,
+  "fields": {
+    "alpha2":"mn",
+    "alpha3":"mng",
+    "name":"Mongolia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":499,
+  "fields": {
+    "alpha2":"me",
+    "alpha3":"mne",
+    "name":"Montenegro"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":504,
+  "fields": {
+    "alpha2":"ma",
+    "alpha3":"mar",
+    "name":"Morocco"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":508,
+  "fields": {
+    "alpha2":"mz",
+    "alpha3":"moz",
+    "name":"Mozambique"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":104,
+  "fields": {
+    "alpha2":"mm",
+    "alpha3":"mmr",
+    "name":"Myanmar"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":516,
+  "fields": {
+    "alpha2":"na",
+    "alpha3":"nam",
+    "name":"Namibia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":520,
+  "fields": {
+    "alpha2":"nr",
+    "alpha3":"nru",
+    "name":"Nauru"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":524,
+  "fields": {
+    "alpha2":"np",
+    "alpha3":"npl",
+    "name":"Nepal"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":528,
+  "fields": {
+    "alpha2":"nl",
+    "alpha3":"nld",
+    "name":"Netherlands"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":554,
+  "fields": {
+    "alpha2":"nz",
+    "alpha3":"nzl",
+    "name":"New Zealand"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":558,
+  "fields": {
+    "alpha2":"ni",
+    "alpha3":"nic",
+    "name":"Nicaragua"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":562,
+  "fields": {
+    "alpha2":"ne",
+    "alpha3":"ner",
+    "name":"Niger"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":566,
+  "fields": {
+    "alpha2":"ng",
+    "alpha3":"nga",
+    "name":"Nigeria"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":807,
+  "fields": {
+    "alpha2":"mk",
+    "alpha3":"mkd",
+    "name":"North Macedonia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":578,
+  "fields": {
+    "alpha2":"no",
+    "alpha3":"nor",
+    "name":"Norway"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":512,
+  "fields": {
+    "alpha2":"om",
+    "alpha3":"omn",
+    "name":"Oman"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":586,
+  "fields": {
+    "alpha2":"pk",
+    "alpha3":"pak",
+    "name":"Pakistan"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":585,
+  "fields": {
+    "alpha2":"pw",
+    "alpha3":"plw",
+    "name":"Palau"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":591,
+  "fields": {
+    "alpha2":"pa",
+    "alpha3":"pan",
+    "name":"Panama"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":598,
+  "fields": {
+    "alpha2":"pg",
+    "alpha3":"png",
+    "name":"Papua New Guinea"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":600,
+  "fields": {
+    "alpha2":"py",
+    "alpha3":"pry",
+    "name":"Paraguay"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":604,
+  "fields": {
+    "alpha2":"pe",
+    "alpha3":"per",
+    "name":"Peru"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":608,
+  "fields": {
+    "alpha2":"ph",
+    "alpha3":"phl",
+    "name":"Philippines"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":616,
+  "fields": {
+    "alpha2":"pl",
+    "alpha3":"pol",
+    "name":"Poland"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":620,
+  "fields": {
+    "alpha2":"pt",
+    "alpha3":"prt",
+    "name":"Portugal"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":634,
+  "fields": {
+    "alpha2":"qa",
+    "alpha3":"qat",
+    "name":"Qatar"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":642,
+  "fields": {
+    "alpha2":"ro",
+    "alpha3":"rou",
+    "name":"Romania"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":643,
+  "fields": {
+    "alpha2":"ru",
+    "alpha3":"rus",
+    "name":"Russian Federation"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":646,
+  "fields": {
+    "alpha2":"rw",
+    "alpha3":"rwa",
+    "name":"Rwanda"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":659,
+  "fields": {
+    "alpha2":"kn",
+    "alpha3":"kna",
+    "name":"Saint Kitts and Nevis"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":662,
+  "fields": {
+    "alpha2":"lc",
+    "alpha3":"lca",
+    "name":"Saint Lucia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":670,
+  "fields": {
+    "alpha2":"vc",
+    "alpha3":"vct",
+    "name":"Saint Vincent and the Grenadines"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":882,
+  "fields": {
+    "alpha2":"ws",
+    "alpha3":"wsm",
+    "name":"Samoa"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":674,
+  "fields": {
+    "alpha2":"sm",
+    "alpha3":"smr",
+    "name":"San Marino"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":678,
+  "fields": {
+    "alpha2":"st",
+    "alpha3":"stp",
+    "name":"Sao Tome and Principe"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":682,
+  "fields": {
+    "alpha2":"sa",
+    "alpha3":"sau",
+    "name":"Saudi Arabia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":686,
+  "fields": {
+    "alpha2":"sn",
+    "alpha3":"sen",
+    "name":"Senegal"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":688,
+  "fields": {
+    "alpha2":"rs",
+    "alpha3":"srb",
+    "name":"Serbia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":690,
+  "fields": {
+    "alpha2":"sc",
+    "alpha3":"syc",
+    "name":"Seychelles"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":694,
+  "fields": {
+    "alpha2":"sl",
+    "alpha3":"sle",
+    "name":"Sierra Leone"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":702,
+  "fields": {
+    "alpha2":"sg",
+    "alpha3":"sgp",
+    "name":"Singapore"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":703,
+  "fields": {
+    "alpha2":"sk",
+    "alpha3":"svk",
+    "name":"Slovakia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":705,
+  "fields": {
+    "alpha2":"si",
+    "alpha3":"svn",
+    "name":"Slovenia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":90,
+  "fields": {
+    "alpha2":"sb",
+    "alpha3":"slb",
+    "name":"Solomon Islands"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":706,
+  "fields": {
+    "alpha2":"so",
+    "alpha3":"som",
+    "name":"Somalia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":710,
+  "fields": {
+    "alpha2":"za",
+    "alpha3":"zaf",
+    "name":"South Africa"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":728,
+  "fields": {
+    "alpha2":"ss",
+    "alpha3":"ssd",
+    "name":"South Sudan"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":724,
+  "fields": {
+    "alpha2":"es",
+    "alpha3":"esp",
+    "name":"Spain"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":144,
+  "fields": {
+    "alpha2":"lk",
+    "alpha3":"lka",
+    "name":"Sri Lanka"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":729,
+  "fields": {
+    "alpha2":"sd",
+    "alpha3":"sdn",
+    "name":"Sudan"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":740,
+  "fields": {
+    "alpha2":"sr",
+    "alpha3":"sur",
+    "name":"Suriname"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":752,
+  "fields": {
+    "alpha2":"se",
+    "alpha3":"swe",
+    "name":"Sweden"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":756,
+  "fields": {
+    "alpha2":"ch",
+    "alpha3":"che",
+    "name":"Switzerland"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":760,
+  "fields": {
+    "alpha2":"sy",
+    "alpha3":"syr",
+    "name":"Syrian Arab Republic"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":762,
+  "fields": {
+    "alpha2":"tj",
+    "alpha3":"tjk",
+    "name":"Tajikistan"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":834,
+  "fields": {
+    "alpha2":"tz",
+    "alpha3":"tza",
+    "name":"Tanzania, United Republic of"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":764,
+  "fields": {
+    "alpha2":"th",
+    "alpha3":"tha",
+    "name":"Thailand"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":626,
+  "fields": {
+    "alpha2":"tl",
+    "alpha3":"tls",
+    "name":"Timor-Leste"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":768,
+  "fields": {
+    "alpha2":"tg",
+    "alpha3":"tgo",
+    "name":"Togo"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":776,
+  "fields": {
+    "alpha2":"to",
+    "alpha3":"ton",
+    "name":"Tonga"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":780,
+  "fields": {
+    "alpha2":"tt",
+    "alpha3":"tto",
+    "name":"Trinidad and Tobago"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":788,
+  "fields": {
+    "alpha2":"tn",
+    "alpha3":"tun",
+    "name":"Tunisia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":792,
+  "fields": {
+    "alpha2":"tr",
+    "alpha3":"tur",
+    "name":"Turkey"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":795,
+  "fields": {
+    "alpha2":"tm",
+    "alpha3":"tkm",
+    "name":"Turkmenistan"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":798,
+  "fields": {
+    "alpha2":"tv",
+    "alpha3":"tuv",
+    "name":"Tuvalu"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":800,
+  "fields": {
+    "alpha2":"ug",
+    "alpha3":"uga",
+    "name":"Uganda"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":804,
+  "fields": {
+    "alpha2":"ua",
+    "alpha3":"ukr",
+    "name":"Ukraine"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":784,
+  "fields": {
+    "alpha2":"ae",
+    "alpha3":"are",
+    "name":"United Arab Emirates"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":826,
+  "fields": {
+    "alpha2":"gb",
+    "alpha3":"gbr",
+    "name":"United Kingdom of Great Britain and Northern Ireland"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":840,
+  "fields": {
+    "alpha2":"us",
+    "alpha3":"usa",
+    "name":"United States of America"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":858,
+  "fields": {
+    "alpha2":"uy",
+    "alpha3":"ury",
+    "name":"Uruguay"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":860,
+  "fields": {
+    "alpha2":"uz",
+    "alpha3":"uzb",
+    "name":"Uzbekistan"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":548,
+  "fields": {
+    "alpha2":"vu",
+    "alpha3":"vut",
+    "name":"Vanuatu"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":862,
+  "fields": {
+    "alpha2":"ve",
+    "alpha3":"ven",
+    "name":"Venezuela (Bolivarian Republic of)"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":704,
+  "fields": {
+    "alpha2":"vn",
+    "alpha3":"vnm",
+    "name":"Viet Nam"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":887,
+  "fields": {
+    "alpha2":"ye",
+    "alpha3":"yem",
+    "name":"Yemen"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":894,
+  "fields": {
+    "alpha2":"zm",
+    "alpha3":"zmb",
+    "name":"Zambia"
+}
+},
+{
+  "model": "triptraceapi.country",
+  "pk":716,
+  "fields": {
+    "alpha2":"zw",
+    "alpha3":"zwe",
+    "name":"Zimbabwe"
+}
+}]

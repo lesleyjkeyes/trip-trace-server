@@ -5,3 +5,5 @@ from .stop import StopView
 from .item import ItemView
 from .stop_category import StopCategoryView
 from .category import CategoryView
+from .favorite import FavoriteView
+from .country import CountryView
