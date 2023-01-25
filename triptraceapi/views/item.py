@@ -16,6 +16,9 @@ class ItemView(ViewSet):
 
     def list(self, request):
         items = Item.objects.all()
+        trip_id = self.request.query_params.get("trip_id", None)
+        if trip_id is not None:
+            items = items.filter(trip_id=trip_id)
         serializer = ItemSerializer(items, many=True)
         return Response(serializer.data)
       
@@ -50,4 +53,4 @@ class ItemSerializer(serializers.ModelSerializer):
     class Meta:
         model = Item
         depth = 1
-        fields = ('id', 'trip_id', 'quantity', 'description', 'title')
+        fields = ('id', 'trip', 'quantity', 'description', 'title')

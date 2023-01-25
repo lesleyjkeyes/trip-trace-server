@@ -5,7 +5,7 @@
     "fields": {
       "trip": 1,
       "title": "Loch Ness",
-      "country": "Scotland",
+      "country": 826,
       "city": "",
       "duration": "5",
       "duration_unit": "Hours",
@@ -18,7 +18,7 @@
     "fields": {
       "trip": 2,
       "title": "Beach",
-      "country": "Mexico",
+      "country": 484,
       "city": "Cabo",
       "duration": "1",
       "duration_unit": "Day",
@@ -31,7 +31,7 @@
     "fields": {
       "trip": 1,
       "title": "Isle of Skye",
-      "country": "Scotland",
+      "country": 826,
       "city": "",
       "duration": "2",
       "duration_unit": "Days",
