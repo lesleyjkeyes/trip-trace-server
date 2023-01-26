@@ -80,4 +80,4 @@ class TripSerializer(serializers.ModelSerializer):
     class Meta:
         model = Trip
         depth = 1
-        fields = ('id', 'title', 'description', 'image_url', 'created_on', 'duration', 'duration_unit', 'traveler_id', 'region', 'country', 'city', 'public', 'price_range')
+        fields = ('id', 'title', 'description', 'image_url', 'created_on', 'duration', 'duration_unit', 'traveler', 'region', 'country', 'city', 'public', 'price_range')
