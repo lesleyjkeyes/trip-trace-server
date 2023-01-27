@@ -16,9 +16,12 @@ class StopCategoryView(ViewSet):
 
     def list(self, request):
         stop_categories = StopCategory.objects.all()
+        stop_id = self.request.query_params.get("stop_id", None)
+        if stop_id is not None:
+            stop_categories = stop_categories.filter(stop_id=stop_id)
         serializer = StopCategorySerializer(stop_categories, many=True)
         return Response(serializer.data)
-      
+
     def create(self, request):
         stop = Stop.objects.get(id=request.data["stop_id"])
         category = Category.objects.get(id=request.data["category_id"])
