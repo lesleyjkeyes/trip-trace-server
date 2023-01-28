@@ -49,4 +49,4 @@ class StopCategorySerializer(serializers.ModelSerializer):
     class Meta:
         model = StopCategory
         depth = 1
-        fields = ('id', 'category_id', 'stop_id')
+        fields = ('id', 'category', 'stop_id')
